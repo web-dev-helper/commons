@@ -1,4 +1,4 @@
 # Angular 
 
 ### Reference
-https://developer.telerik.com/featured/quick-angular-2-hosting-angular-cli-github-pages/
+Configuring a publishing source for Github Pages: https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/
