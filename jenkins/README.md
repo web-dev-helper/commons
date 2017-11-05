@@ -30,3 +30,6 @@ https://wiki.jenkins.io/display/JENKINS/Starting+and+Accessing+Jenkins
 9.
 ![09](https://user-images.githubusercontent.com/24940067/32417894-17e0a68c-c22e-11e7-903a-4ac3d0efe6a3.JPG)
 
+10.
+젠킨스 location ip가 localhost 또는 127.0.0.1로 설정 되어 있다면 외부 접근(Github)을 위해 자신의 ip로 변경한다. http://자신의 ip:8080/jenkins.
+![11](https://user-images.githubusercontent.com/24940067/32417938-ba1374de-c22e-11e7-9c00-5a257a8dce8a.JPG)
