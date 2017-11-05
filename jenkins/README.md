@@ -36,3 +36,8 @@ https://wiki.jenkins.io/display/JENKINS/Starting+and+Accessing+Jenkins
 
 11.
 ![12](https://user-images.githubusercontent.com/24940067/32417982-af496580-c22f-11e7-863f-618c3c9d4555.JPG)
+
+12.
+Kind : Secret text, Secret : Github에서 복사한 Personal access token, ID : Github 아이디 입력 후 Add로 Credentials 추가
+![13](https://user-images.githubusercontent.com/24940067/32418035-8c47cf26-c230-11e7-8466-b3b710309a7c.JPG)
+
