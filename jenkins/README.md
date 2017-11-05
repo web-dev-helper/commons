@@ -20,3 +20,8 @@ https://wiki.jenkins.io/display/JENKINS/Starting+and+Accessing+Jenkins
 
 6.
 ![06](https://user-images.githubusercontent.com/24940067/32417788-c8d9aba2-c22c-11e7-8314-b087aeab8017.JPG)
+
+7.
+![07](https://user-images.githubusercontent.com/24940067/32417840-5773b6e6-c22d-11e7-9eef-6cde6223fb2c.JPG)
+
+
